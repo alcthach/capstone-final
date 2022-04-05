@@ -8,10 +8,10 @@ The goal of this project was to predict Spotify skip prediction using machine le
 
 Below is a directory map for the project:
 
-AlexThach-Capstone-Final-RAW-DATA
-│   AlexThach-capstone-technical-report.pdf
-│   capstone.yml
-│   README.md.txt
+AlexThach-Capstone-Final-RAW-DATA  
+│   AlexThach-capstone-technical-report.pdf  
+│   capstone.yml  
+│   README.md.txt  
 │
 ├───assets
 │       aicrowd_logo_sm.png
