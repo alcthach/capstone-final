@@ -1,8 +1,9 @@
 # capstone-final
-BrainStation Capstone Project - Final Submission
-Hi!
+BrainStation Capstone Project - Final Submission  
+  
+Hi!  
 
-This is the readme file for Alex Thach's Capstone Project submitted as part of BrainStation's Data Science Diploma Program.
+This is the readme file for Alex Thach's Capstone Project submitted as part of BrainStation's Data Science Diploma Program.  
 
 The goal of this project was to predict Spotify skip prediction using machine learning. Logistic regression and Random Forest classifiers were trained with various engineered features in an attempt to solve this problem.
 
