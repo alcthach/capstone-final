@@ -1,4 +1,4 @@
-# capstone-final
+# Spotify Skip Prediction
 BrainStation Capstone Project - Final Submission  
   
 Hi!  
